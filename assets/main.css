@@ -5,3 +5,8 @@
 .navigation-link-color:hover{
     color: blue;
 }
+
+.home-image{
+    width: 200px;
+    height: auto;
+}
